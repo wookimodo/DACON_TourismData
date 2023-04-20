@@ -1,9 +1,7 @@
 # 2022 관광데이터 AI 경진대회
 
 <p align="center">
-  <br>
-  <img src="./ofcourse/static/img/sub.jpg">
-  <br>
+
 </p>
 
 ## 프로젝트 소개
